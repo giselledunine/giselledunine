@@ -1,4 +1,11 @@
 ## Hi there 👋
+## I'm Sophia
+
+- 🔭 I’m currently working my personal creative project named SoCocky
+- 🌱 I’m currently learning Blender and threeJS to enhance my creative skills
+- 📫 How to reach me: sophia.hmamouche@outlook.com
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66e43eddf34c8868ec02484a?variant=dark&roadmaps=full-stack%2Cnodejs%2Creact%2Capi-design)](https://roadmap.sh)
 
 <!--
 **giselledunine/giselledunine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
