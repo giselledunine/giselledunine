@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Sophia
+# I'm Sophia
 
 - 🔭 I’m currently working my personal creative project named SoCocky
 - 🌱 I’m currently learning Blender and threeJS to enhance my creative skills
